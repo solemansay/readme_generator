@@ -76,7 +76,7 @@ inquirer.prompt([
     var data = {
         username: answers.username,
         email: answers.email,
-        title: answers.email,
+        title: answers.title,
         description: answers.description,
         license: answers.license,
         link: link,
@@ -86,7 +86,7 @@ inquirer.prompt([
         contributing: answers.contributing
     }
 
-    writeToFile("README.md", data);
+    writeToFile("README1.md", data);
 
 });
 
@@ -94,7 +94,7 @@ inquirer.prompt([
 // function to write README file
 function writeToFile(fileName, data) {
 
-    fs.writeFile("README.md", generateMarkdown(data), err => {
+    fs.writeFile("README1.md", generateMarkdown(data), err => {
         if (err) {
             return console.log(err);
         }

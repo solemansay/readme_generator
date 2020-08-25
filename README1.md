@@ -1,9 +1,9 @@
-# readme_gen
+# 
 
-  ![GitHub license](https://img.shields.io/badge/eclipse-BSD3-marketplace.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
-  no thanks
+  
 
   ## Table of Contents 
   
@@ -21,15 +21,15 @@
   
   ## Usage
   
-  its great
+  
   
   ## License
   
-  This project is licensed under the BSD 3 license 
+  This project is licensed under the MIT license 
   
   ## Contributing
   
-  please pull before you push
+  
   
   ## Tests
   
@@ -39,5 +39,5 @@
 
   ## Questions
   
-  If you have any questions anout the repo, open an issue or contact me directly at [solemansay](https://github.com/solemansay/). 
-  Or send me an email at [solemansay@gmail.com](solemansay@gmail.com)
+  If you have any questions anout the repo, open an issue or contact me directly at [](https://github.com//). 
+  Or send me an email at []()
