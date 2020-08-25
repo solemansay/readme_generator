@@ -86,7 +86,7 @@ inquirer.prompt([
         contributing: answers.contributing
     }
 
-    writeToFile("README1.md", data);
+    writeToFile("README.md", data);
 
 });
 
@@ -94,7 +94,7 @@ inquirer.prompt([
 // function to write README file
 function writeToFile(fileName, data) {
 
-    fs.writeFile("README1.md", generateMarkdown(data), err => {
+    fs.writeFile("README.md", generateMarkdown(data), err => {
         if (err) {
             return console.log(err);
         }
