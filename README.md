@@ -9,7 +9,7 @@
   <img src= "assets/bashWindow.png" alt = "bash window">
 
   Once all of the fields are filled out, the user is presented with either a success message or an error code. If an error is pulled the user can view what went wrong, if the success message appears the user has completed the creation of their read me!
-  
+
   ## Table of Contents 
   
   * [instalation](#instalation)

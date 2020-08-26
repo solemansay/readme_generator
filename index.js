@@ -66,9 +66,9 @@ inquirer.prompt([
     if (answers.license === "MIT") {
         link = "![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)"
     } else if (answers.license === "GPL 3.0") {
-        link = "![GitHub license](https://img.shields.io/badge/eclipse-GPL3.0-marketplace.svg)"
+        link = "![GitHub license](https://img.shields.io/badge/eclipse-GPL%203.0-marketplace.svg)"
     } else if (answers.license === "BSD 3") {
-        link = "![GitHub license](https://img.shields.io/badge/eclipse-BSD3-marketplace.svg)"
+        link = "![GitHub license](https://img.shields.io/badge/eclipse-BSD%203-marketplace.svg)"
     } else {
         link = ""
     }
