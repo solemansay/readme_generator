@@ -4,10 +4,12 @@
 
   ## Description 
 
-  I built this app to generate professional-grade README's through node prompts. When the user is prompted to eg, "write a short description" the information that is provided is appended to a document that is also created through the node. 
+  I built this app to generate professional-grade README's through node prompts. When the user is prompted eg, "write a short description" the information that is provided is appended to a document that is also created through the node. 
 
   <img src= "assets/bashWindow.png" alt = "bash window">
 
+  Once all of the fields are filled out, the user is presented with either a success message or an error code. If an error is pulled the user can view what went wrong, if the success message appears the user has completed the creation of their read me!
+  
   ## Table of Contents 
   
   * [instalation](#instalation)
