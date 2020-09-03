@@ -50,6 +50,6 @@
  Or send me an email at solemansay@gmail.com
 
  ```
-Thank you for viewing my day planner project! I hoped you enjoyed my solution and continue to follow my career as a jr full-stack web developer. 
+Thank you for viewing my read me generator project! I hoped you enjoyed my solution and continue to follow my career as a jr full-stack web developer. 
 -Soleman Sayeed
 ```
